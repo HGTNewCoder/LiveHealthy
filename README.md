@@ -1,4 +1,14 @@
-# LiveHealthy — Local Development
+# 🥗 LiveHealthy
+
+**Live demo:** https://nutrition-llms.onrender.com/
+
+An LLM-powered health and nutrition assistant: ask health or diet questions, get answers grounded in a disease reference dataset, and find hospitals near you on an interactive map.
+
+**Stack:** Python · Flask · Google Vertex AI via LangChain · Google Maps · HTML/CSS/JS
+
+---
+
+## Local development
 
 A minimal Flask app for looking up local health and nutrition information. The project uses plain HTML templates, static assets (CSS/JS), and a small Flask server located in `app.py`.
 
